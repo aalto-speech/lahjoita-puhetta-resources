@@ -19,4 +19,4 @@ Even if you're not familiar with SpeechBrain, the hyperparams/Full-B-50s.yaml hy
 
 
 ## Metadata classification
-link will be updated here
+[Lahjoita puhetta metadata classification](https://github.com/aalto-speech/lahjoita-puhetta-metadata-classification)
