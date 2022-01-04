@@ -14,8 +14,8 @@ https://github.com/aalto-speech/speechbrain-lahjoita-puhetta-baseline
 
 Even if you're not familiar with SpeechBrain, the hyperparams/Full-B-50s.yaml hyperparameter file should be relatively easy to read, if you're interested in specific hyperparameter choices.
 
-## Wav2Vec2 finetuned with CTC
-link will be updated here
+## Wav2Vec2 fine-tuned with CTC
+[Lahjoita puhetta Wav2Vec2 recipe](https://github.com/aalto-speech/lahjoita-puhetta-baseline-wav2vec2)
 
 
 ## Metadata classification
