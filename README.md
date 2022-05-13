@@ -10,6 +10,11 @@ Hybrid HMM/DNN ASR system built with Kaldi, and language models:
 - [Training scripts](https://github.com/aalto-speech/lahjoita-puhetta-baseline-kaldi)
 - [Downloadable trained model](https://zenodo.org/record/6539429#.Ynz3FFxBwUF)
 
+## Hybrid, semisupervised HMM/DNN ASR system
+Semisupervised HMM/DNN ASR system built with Kaldi using 100h of transcribed and 1600h of untranscribed data:
+- [Training scripts](https://github.com/aalto-speech/lahjoita-puhetta-baseline-kaldi)
+- [Downloadable trained model](https://zenodo.org/record/6545290#.Yn4MblTP1PY)
+
 ## AED recipe
 The SpeechBrain AED recipe can be found here:
 https://github.com/aalto-speech/speechbrain-lahjoita-puhetta-baseline
