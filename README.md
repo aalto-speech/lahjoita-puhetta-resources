@@ -27,5 +27,5 @@ Even if you're not familiar with SpeechBrain, the hyperparams/Full-B-50s.yaml hy
 
 
 ## Metadata classification
-[Lahjoita puhetta metadata classification](https://github.com/aalto-speech/lahjoita-puhetta-metadata-classification)
-[Lahjoita puhetta metadata classification trained models](https://zenodo.org/record/6545342#.Yn4UPZNBxBw)
+- [Lahjoita puhetta metadata classification](https://github.com/aalto-speech/lahjoita-puhetta-metadata-classification)
+- [Lahjoita puhetta metadata classification trained models](https://zenodo.org/record/6545342#.Yn4UPZNBxBw)
