@@ -1,14 +1,14 @@
 # Lahjoita puhetta resources
-A collection of resources related to the Lahjoita puhetta speech corpus.
+A collection of resources related to the Lahjoita puhetta speech corpus. Described in the paper [Lahjoita puhetta: a large-scale corpus of spoken Finnish with some benchmarks](https://doi.org/10.1007/s10579-022-09606-3)
 
-## The corpus page on Kielipankki
-- The corpus page on Kielipankki is at https://www.kielipankki.fi/lahjoita-puhetta/
-- the link to the corpus will be updated here
+## The corpus on Kielipankki
+- [Download the corpus](https://www.kielipankki.fi/corpora/puhelahjat/)
+- [More information about the Lahjoita puhetta campaign](https://www.kielipankki.fi/lahjoita-puhetta/)
 
 ## Hybrid HMM/DNN ASR system
 Hybrid HMM/DNN ASR system built with Kaldi, and language models:
 - [Training scripts](https://github.com/aalto-speech/lahjoita-puhetta-baseline-kaldi)
-- [Downloadable trained model](https://zenodo.org/record/6539429#.Ynz3FFxBwUF)
+- [Downloadable trained models](https://zenodo.org/record/7101543)
 
 ## Hybrid, semisupervised HMM/DNN ASR system
 Semisupervised HMM/DNN ASR system built with Kaldi using 100h of transcribed and 1600h of untranscribed data:
